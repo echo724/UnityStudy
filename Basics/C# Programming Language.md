@@ -1,6 +1,7 @@
 # C# Programming
 This is the summarize of Youtue "Goldmetal" Channel's C# Programming Lecture
-[https://www.youtube.com/watch?v=j6XLEqgq-dE]("https://www.youtube.com/watch?v=j6XLEqgq-dE")
+
+[https://www.youtube.com/watch?v=j6XLEqgq-dE](https://www.youtube.com/watch?v=j6XLEqgq-dE)
 
 ## Display on Debug
 ```C#
