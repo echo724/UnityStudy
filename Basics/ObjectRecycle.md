@@ -22,7 +22,7 @@ public class LifeCycle: Monobehaviour{
 - 업데이트 시작 직전, 최초 실행
 - 한 번만 실행
 
-## Physics, 물
+## Physics, 물리
 
 ###  FixedUpdate()
 - 물리 연산 업데이트
