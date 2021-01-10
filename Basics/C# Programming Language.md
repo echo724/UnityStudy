@@ -80,3 +80,10 @@ isFullLevel = level == fullLevel; //false
 bool condition = isBadCondition ? "Good" : "Bad";
 ```
 
+## Class
+```C#
+public class NewClass(){
+
+}
+```
+- 전역 개념이 없다. 모든 것은 클래스의 멤버 변수 혹은 함수이다.
